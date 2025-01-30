@@ -12,5 +12,8 @@ Supplemental data and code for niche models and linear regressions of Cerberus (
 
 
 ## Source Publication
-Manuscript currently in revision.
-DOI to paper: TBA
+Bernstein, J. M., Bautista, J. B., Clores, M. A., Brown, R. M., Ruane, S., Sanguila, M. B., Alis-Besenio, M. G. J., Pejo, C. L. F., and Cuesta, M. A. 2024. Using mangrove and field-based observation data to determine microhabitat preference: a case study in Bockadams of the Philippines (Serpentes: Homalopsidae: Cerberus). Royal Society Open Science 11(10): 240483.
+DOI: [https://doi.org/10.1098/rsos.240483](https://doi.org/10.1098/rsos.240483).
+
+## Citation
+Please be cite the DOI in this Github Repository and the above [Source Pulication](https://doi.org/10.1098/rsos.240483) if using any current or modified code from this repository.
