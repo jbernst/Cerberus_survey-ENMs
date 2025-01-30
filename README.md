@@ -16,4 +16,5 @@ Bernstein, J. M., Bautista, J. B., Clores, M. A., Brown, R. M., Ruane, S., Sangu
 DOI: [https://doi.org/10.1098/rsos.240483](https://doi.org/10.1098/rsos.240483).
 
 ## Citation
-Please be cite the DOI in this Github Repository and the above [Source Pulication](https://doi.org/10.1098/rsos.240483) if using any current or modified code from this repository.
+Please cite the DOI in this Github Repository and the above [Source Pulication](https://doi.org/10.1098/rsos.240483) if using any current or modified code from this repository.
+The DOI for this repository is: [![DOI](https://zenodo.org/badge/832797550.svg)](https://doi.org/10.5281/zenodo.13317013)
